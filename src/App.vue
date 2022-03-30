@@ -7,7 +7,7 @@ import Card from './components/Card/Card.vue';
   <header>
     <div class="wrapper">
       <main>
-        <Header msg="Name generator" />
+        <Header msg="Credentials Generator" />
         <Card />
       </main>
     </div>
